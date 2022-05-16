@@ -1,0 +1,12 @@
+public class firsthai {
+
+ public static void main(String[] args) {
+
+    System.out.println("Hello Ani");
+      System.out.println("Hello Anitha");
+        System.out.println("Hello vani"); 
+        System.out.println("Hello kani");
+
+ }
+
+}
